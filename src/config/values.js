@@ -2,8 +2,8 @@
  * Configurasi email
  */
 exports.service = "gmail";
-exports.umail = "your-email@gmail.com";
-exports.upass = "YourPassword";
+exports.umail = "yusuffebriansyah@gmail.com";
+exports.upass = "CupzBotz";
 
 /*
  * Configurasi sending verification
@@ -14,6 +14,6 @@ exports.subject_email = "Pemalas APi | Verification";
  * Configurasi database
  */
 exports.mongoUrl =
-  "mongodb+srv://*****:******@cluster0.mn1td.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "mongodb+srv://nathanael:claramylove@cluster0.eqj2w.mongodb.net?myFirstDatabase?retryWrites=true&w=majority";
 exports.dbGet = "pemalasapi";
 exports.msgSuccesConnect = "Connected correctly to server";
